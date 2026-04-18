@@ -13,10 +13,10 @@ A simple and interactive Rock Paper Scissors game built using basic programming 
   CSS
 JavaScript (or Java – update based on your project)
 🎮 How to Play
-Choose one option: Rock, Paper, or Scissors
-The computer will randomly select its move
-The winner is decided based on rules:
-Rock beats Scissors
-Scissors beats Paper
-Paper beats Rock
-Result will be displayed instantly
+.Choose one option: Rock, Paper, or Scissors
+.The computer will randomly select its move
+.The winner is decided based on rules:
+.Rock beats Scissors
+.Scissors beats Paper
+.Paper beats Rock
+.Result will be displayed instantly
