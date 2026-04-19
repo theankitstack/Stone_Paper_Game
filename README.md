@@ -1,6 +1,7 @@
 # This is a Rock Paper Scissors game
 
-A simple and interactive Rock Paper Scissors game built using basic programming concepts. This project allows users to play against the computer in a fun and engaging way.
+A simple and interactive Rock Paper Scissors game built using basic programming concepts.
+This project allows users to play against the computer in a fun and engaging way.
 
 🚀 Features
  Play Rock, Paper, Scissors against the computer
