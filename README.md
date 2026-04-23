@@ -1,6 +1,6 @@
-# This is a Rock Paper Scissors game
+# This is a Rock Paper Scissors game (Build in JavaScript)
 
-A simple and interactive Rock Paper Scissors game built using basic programming concepts.
+A Simple and interactive Rock Paper Scissors game built using basic programming concepts.
 This project allows users to play against the computer in a fun and engaging way.
 
 # 🚀 Features
